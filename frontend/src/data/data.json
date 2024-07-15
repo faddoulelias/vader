@@ -1,0 +1,30 @@
+[
+	{
+		"companyName": "Company A",
+		"negative": 10,
+		"neutral": 20,
+		"positive": 30,
+		"compound": 0.5
+	},
+	{
+		"companyName": "Company B",
+		"negative": 15,
+		"neutral": 25,
+		"positive": 35,
+		"compound": -0.2
+	},
+	{
+		"companyName": "Company C",
+		"negative": 5,
+		"neutral": 15,
+		"positive": 25,
+		"compound": 0.1
+	},
+	{
+		"companyName": "Company D",
+		"negative": 12,
+		"neutral": 22,
+		"positive": 32,
+		"compound": -0.3
+	}
+]
